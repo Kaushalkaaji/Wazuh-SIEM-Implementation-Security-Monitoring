@@ -1,6 +1,7 @@
 # Wazuh-SIEM-Implementation-Security-Monitoring
 
 This project focuses on implementing Wazuh SIEM in a Linux environment to enable centralized log monitoring, real-time threat detection, and security event analysis. It demonstrates how SIEM tools are used in real-world SOC operations.
+        It is a minor project, regarding the infrastructure of any OFFICE.
 
 🎯 Objectives
 
